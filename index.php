@@ -21,7 +21,7 @@
 		<h3>Hanamichi Sakuragi</h3>
 		<i>Slam Dunk</i>
 		<div>
-			<img src="Hanamichi-Sakuragi.jpg">
+			<img src="Hanamichi-Sakuragi.jpg" alt="Hanamichi Sakuragi">
 		</div>
 		<h2> About Me </h2>
 		<p> I have been coding in real world for 2 years. I wish to develop cool apps to help other people in the world. I choose this course because I want to study in PHP Laveral framework and explore the education experience in Harvard.</p>
